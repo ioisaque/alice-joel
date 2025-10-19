@@ -1,0 +1,19 @@
+{
+    "id": "Alice_Joel",
+    "name": "Alice & Joel",
+    "short_name": "Alice&Joel",
+    "scope": "./",
+    "start_url": "./",
+    "display": "standalone",
+    "theme_color": "#FFFFFF",
+    "background_color": "#5f5cc7",
+    "icons": [
+        {
+            "src": "img/favicons/launch_logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "app_name": "Casamento Alice e Joel",
+    "description": "O nosso grande dia está marcado e você é nosso convidado especial!"
+}
